@@ -1,7 +1,5 @@
-# NLP Text Processing
-Prácticas académicas en técnicas de preprocesamiento y representación de texto para PLN: normalización, tokenización, TF-IDF, vectores binarios y similitud del coseno.
-
-Este repositorio contiene prácticas de procesamiento de lenguaje natural enfocadas en el tratamiento y representación de texto.
+#NLP Text Processing
+Este repositorio contiene prácticas académicas de procesamiento de lenguaje natural enfocadas en el tratamiento y representación de texto.
 
 ## Contenido
 
