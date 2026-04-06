@@ -1,4 +1,4 @@
-#NLP Text Processing
+# NLP Text Processing
 Este repositorio contiene prácticas académicas de procesamiento de lenguaje natural enfocadas en el tratamiento y representación de texto.
 
 ## Contenido
